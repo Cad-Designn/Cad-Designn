@@ -1,4 +1,4 @@
-<h1 align="center">🎨 CADDesign Web App</h1>
+<h1 align="center">🎨 Cad Designn</h1>
 
 <p align="center">
   Your one-stop destination for <strong>Graphic Design, UI/UX, Video Editing, Website Building</strong> and <strong>Promotional Works</strong>.
