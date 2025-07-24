@@ -12,7 +12,7 @@
 
 ## 🚀 About
 
-**Cad Designn** is a modern, responsive, and visually stunning web application built for digital creative services. Whether you’re a brand looking for a visual identity or a startup building your digital presence, CADDesign brings your vision to life with:
+**Cad Designn** is a modern, responsive, and visually stunning web application built for digital creative services. Whether you’re a brand looking for a visual identity or a startup building your digital presence, **Cad Designn** brings your vision to life with:
 
 - 🎨 Graphic Design
 - 🧠 UI/UX Design
