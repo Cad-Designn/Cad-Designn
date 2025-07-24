@@ -6,14 +6,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square" />
-  <img src="https://img.shields.io/github/license/yourusername/caddesign-webapp?style=flat-square" />
 </p>
 
 ---
 
 ## 🚀 About
 
-**CADDesign** is a modern, responsive, and visually stunning web application built for digital creative services. Whether you’re a brand looking for a visual identity or a startup building your digital presence, CADDesign brings your vision to life with:
+**Cad Designn** is a modern, responsive, and visually stunning web application built for digital creative services. Whether you’re a brand looking for a visual identity or a startup building your digital presence, CADDesign brings your vision to life with:
 
 - 🎨 Graphic Design
 - 🧠 UI/UX Design
