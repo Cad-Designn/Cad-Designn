@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">🎨 CADDesign Web App</h1>
 
-<!--
-**Cad-Designn/Cad-Designn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Your one-stop destination for <strong>Graphic Design, UI/UX, Video Editing, Website Building</strong> and <strong>Promotional Works</strong>.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square" />
+  <img src="https://img.shields.io/github/license/yourusername/caddesign-webapp?style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About
+
+**CADDesign** is a modern, responsive, and visually stunning web application built for digital creative services. Whether you’re a brand looking for a visual identity or a startup building your digital presence, CADDesign brings your vision to life with:
+
+- 🎨 Graphic Design
+- 🧠 UI/UX Design
+- 🎬 Video Editing
+- 💻 Website Development
+- 📢 Promotion & Branding
+
+---
+
+## ✨ Features
+
+- Beautiful hero sections and interactive UI
+- Responsive design for all devices
+- Smooth transitions and animations
+- Service-based navigation
+- Contact & showcase sections
+
+---
+
+
